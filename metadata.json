@@ -1,0 +1,6 @@
+{
+  "name": "Smart Energy Management System",
+  "description": "Real-time electrical prototype monitoring dashboard for voltage, current, power, and cumulative energy with interactive 3D visualizations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
