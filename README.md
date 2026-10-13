@@ -4,10 +4,8 @@ A real-time electrical prototype monitoring dashboard built with **React**, **Ty
 
 This dashboard visualizes real-time electrical metrics (Voltage, Current, Power, and Cumulative Energy) measured by an IoT-enabled electrical monitoring prototype.
 
-### 🌐 Live Links
-- **GitHub Pages**: [https://gmsethupathi12.github.io/smart-energy-management-system-/](https://gmsethupathi12.github.io/smart-energy-management-system-/)
-- **AI Studio Live App**: [https://energy-prototype-6282.ai.studio](https://energy-prototype-6282.ai.studio)
-- **Direct Development Mirror**: [https://ais-dev-ji4yblotd5okhxujrfsnyw-88464227380.asia-southeast1.run.app](https://ais-dev-ji4yblotd5okhxujrfsnyw-88464227380.asia-southeast1.run.app)
+### 🌐 Live Demo
+- **Website**: [https://gmsethupathi12.github.io/smart-energy-management-system-/](https://gmsethupathi12.github.io/smart-energy-management-system-/)
 
 ---
 
